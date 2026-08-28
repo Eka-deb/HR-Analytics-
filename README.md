@@ -65,4 +65,20 @@ The dashboard is a single-page Power BI report combining:
 ▪️ Interactive slicers for Age range and Job Role
 ![HR Analytics Dashboard: Understanding and Reducing Attrition](IMG_20260828_085457.jpg)
 
-## Recommendation s the highest attrition rate.
+## Recommendations
+1. Prioritize satisfaction, not just promotion policy by investigating  root root causes of low satisfaction (workload, management, growth opportunity) since it's the leading attrition signal.
+2. Address overtime for at-risk staff — reduce or better compensate overtime for employees already showing low satisfaction, since this combination has the highest attrition rate.
+3. Support employees with long commutes — consider hybrid/remote options, transport support, or relocation assistance for staff living far/very far from the workplace.
+4. Review R&D retention specifically : since R&D carries the largest headcount and payroll exposure, even a small percentage improvement in retention there yields outsized savings.
+5. Though promotion is not the top driver of Attrition, it should be re-evaluated to ensure promotion timelines are transparent and fair, since perceived stagnation still contributes to attrition.
+6. Build a continuous listening mechanism by conducting regular pulse surveys to catch dissatisfaction before it turns into attrition.
+
+## Conclusion 
+This analysis shows that employee attrition at the company is driven primarily by job dissatisfaction, intensified by long commutes and overtime, not by promotion timing as might be assumed. With 1,470 employees, a 16.12% attrition rate, and $21.04M in annual salary exposure, targeted retention efforts (starting with satisfaction and workload) offer the clearest path to protecting both people and payroll investment. The Power BI dashboard gives HR and leadership a reusable, interactive tool to monitor these drivers going forward.
+
+## Tools Used
+Power Query — data cleaning and transformation
+
+DAX (Data Analysis Expressions) — custom measures for attrition rate, retention rate, salary, and tenure
+
+Power BI Desktop — data modeling, visualization, and interactive dashboard design
