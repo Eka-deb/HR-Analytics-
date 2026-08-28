@@ -63,3 +63,4 @@ The dashboard is a single-page Power BI report combining:
 ▪️ Attrition by location, by promotion status, and by satisfaction/overtime combined
 
 ▪️ Interactive slicers for Age range and Job Role
+![HR Analytics Dashboard: Understanding and Reducing Attrition](IMG_20260828_085457.jpg)
