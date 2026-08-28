@@ -64,3 +64,5 @@ The dashboard is a single-page Power BI report combining:
 
 ▪️ Interactive slicers for Age range and Job Role
 ![HR Analytics Dashboard: Understanding and Reducing Attrition](IMG_20260828_085457.jpg)
+
+## Recommendation s the highest attrition rate.
